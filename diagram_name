@@ -1,0 +1,7 @@
+<?php
+class company {
+var $name;
+public function setCompanyName() { return $this->;name } 
+public function getCompanyName() {} 
+}
+?>

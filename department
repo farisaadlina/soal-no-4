@@ -1,0 +1,7 @@
+<?php
+class Department {
+var $name;
+public function setDepartmentName() { return $this->;name } 
+public function getDepartmentName() {} 
+}
+?>
